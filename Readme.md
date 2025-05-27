@@ -20,12 +20,6 @@ Integrated state-of-the-art ML models to accurately predict diseases based on us
 ### 🌐 Flask App Integration
 Powered by a **Flask web application**, making the system lightweight, fast, and accessible from any device with a browser.
 
-### 🔒 Privacy and Security
-We prioritize user privacy. Your health information is handled with the utmost confidentiality, following industry-best security practices.
-
-### 🔁 Continuous Improvement
-As more data is collected, our ML models retrain and improve continuously to deliver even more accurate recommendations over time.
-
 ---
 
 ## 🛠️ Tech Stack
