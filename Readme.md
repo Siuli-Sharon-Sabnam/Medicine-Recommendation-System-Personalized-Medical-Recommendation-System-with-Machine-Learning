@@ -27,7 +27,7 @@ Powered by a **Flask web application**, making the system lightweight, fast, and
 - **Python**
 - **Flask**
 - **Scikit-learn / Pandas / NumPy**
-- **HTML / CSS / JavaScript** (for frontend)
+- **HTML / Bootstrap / JavaScript** (for frontend)
 - **Machine Learning Models** (for disease prediction)
 
 ---
